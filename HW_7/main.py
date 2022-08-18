@@ -1,3 +1,9 @@
+import imp
 import mypocket
 
-print(func.summ(1,2))
+import data
+import controller
+import view
+
+controller.menu()
+

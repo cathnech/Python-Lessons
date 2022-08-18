@@ -1,1 +1,1 @@
-from .test import summ
+from .log import *
